@@ -1,0 +1,22 @@
+{
+  "name": "cavoid",
+  "version": "1.0.0",
+  "description": "Converts PDF to SVG and produces stand-alone HTML cave viewers",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kdemarest/cavoid.git"
+  },
+  "author": "Ken Demarest",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kdemarest/cavoid/issues"
+  },
+  "homepage": "https://github.com/kdemarest/cavoid#readme",
+  "dependencies": {
+    "pdf2json": "^1.1.7"
+  }
+}
